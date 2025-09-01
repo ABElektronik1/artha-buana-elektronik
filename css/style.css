@@ -269,7 +269,6 @@ body {
 }
 
 .about .row {
-  display: flex;
 }
 
 .about .row .about-img {
@@ -278,13 +277,12 @@ body {
 
 .about .row .about-img img {
   width: 100%;
-  -webkit-mask-size: 50%;
+
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-position: center;
 }
 
 .about .row .content {
-  flex: 1 1 35rem;
   padding: 0 1rem;
 }
 
