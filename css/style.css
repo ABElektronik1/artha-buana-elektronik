@@ -267,7 +267,7 @@ body {
 .contact h2 span {
   color: var(--primary);
 }
-.about .row .about-img {
+.about-img {
   display: flex;
   justify-content: center;
   align-items: center;  
