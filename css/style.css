@@ -270,8 +270,6 @@ body {
 
 
 .about .row .about-img img {
-  width: 100%;
-
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-position: center;
 }
