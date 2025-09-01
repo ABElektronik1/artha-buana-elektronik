@@ -268,7 +268,7 @@ body {
   color: var(--primary);
 }
 .about .row .about-img img {
-  -webkit-mask-position: center;
+  position: center;
 }
 .about .row .content h3 {
   font-size: 1.8rem;
