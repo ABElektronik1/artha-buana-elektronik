@@ -268,7 +268,9 @@ body {
   color: var(--primary);
 }
 .about .row .about-img img {
-  position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;  
 }
 .about .row .content h3 {
   font-size: 1.8rem;
